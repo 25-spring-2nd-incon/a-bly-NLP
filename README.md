@@ -41,5 +41,5 @@ git branch -d <내 브랜치명>
 ```
 
 ### Branch Name
-<이름>/<작업내용>으로 브랜치 명 통일하기
-| 예시) seungsik/nlp-preprocessing
+<이름>/<작업내용>으로 브랜치 명 통일하기\
+e.g)seungsik/nlp-preprocessing
